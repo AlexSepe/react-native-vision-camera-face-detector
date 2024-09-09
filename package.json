@@ -1,6 +1,6 @@
 {
-  "name": "react-native-vision-camera-face-detector",
-  "version": "1.7.1",
+  "name": "react-native-vision-camera-face-detector-tc",
+  "version": "0.0.1",
   "description": "Frame Processor Plugin to detect faces using MLKit Vision Face Detector for React Native Vision Camera!",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -37,14 +37,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/luicfrr/react-native-vision-camera-face-detector"
+    "url": "https://github.com/AlexSepe/react-native-vision-camera-face-detector"
   },
-  "author": "luicfrr",
+  "author": "luicfrr AlexSepeV2",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/luicfrr/react-native-vision-camera-face-detector"
+    "url": "https://github.com/AlexSepe/react-native-vision-camera-face-detector"
   },
-  "homepage": "https://github.com/luicfrr/react-native-vision-camera-face-detector",
+  "homepage": "https://github.com/AlexSepe/react-native-vision-camera-face-detector",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
@@ -58,9 +58,9 @@
     "eslint-plugin-prettier": "^5.2.1",
     "prettier": "^3.3.3",
     "react": "^18.3.1",
-    "react-native": "^0.74.3",
+    "react-native": "^0.72.7",
     "react-native-builder-bob": "^0.27.0",
-    "react-native-vision-camera": "4.5.0",
+    "react-native-vision-camera": "4.3.1",
     "react-native-worklets-core": "1.3.3",
     "release-it": "^17.6.0",
     "typescript": "^5.5.4"
